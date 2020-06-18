@@ -42,4 +42,8 @@ ul{
 
 footer p{
   color:pink
-  background-color:red
+  background-color:red;
+@media(max-width:480px){
+  .container{float:left}
+  
+  
