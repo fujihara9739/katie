@@ -43,7 +43,12 @@ ul{
 footer p{
   color:pink
   background-color:red;
+/*  ここ違いますよ　*/
 @media(max-width:480px){
   .container{float:left}
   
+img{
+  height:100px
+  width:100px
+  }
   
